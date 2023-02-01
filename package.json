@@ -17,7 +17,7 @@
     "url": "https://github.com/ankitraj5ar/webcrawler/issues"
   },
   "homepage": "https://github.com/ankitraj5ar/webcrawler#readme",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^29.4.1"
   }
 }
